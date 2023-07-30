@@ -1,0 +1,31 @@
+.h-wrapper{
+    background-color: black;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.h-container{
+    justify-content: space-between;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.h-menu{
+    gap: 2rem;
+    color: white;
+    text-decoration: none;
+}
+.h-menu>*:hover{
+    cursor: pointer;
+}
+.button {
+    background: rgb(22,9,240);
+  background: linear-gradient(0deg, rgba(22,9,240,1) 0%, rgba(49,110,244,1) 100%);
+    color: #fff;
+    border: none;
+    transition: all 0.3s ease;
+    overflow: hidden;
+  }
+ 
+  
