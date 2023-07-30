@@ -3,6 +3,7 @@
    background-color: black;
     position: relative;
     padding-bottom: 2 rem;
+    height: 100vh;
 }
 .hero-container{
     justify-content: space-between;

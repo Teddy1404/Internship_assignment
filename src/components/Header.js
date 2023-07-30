@@ -13,7 +13,7 @@ const Header = () => {
         <div className="orange-circle"/>
             <h1>
                 Discover<br/>
-                Most Suitable <br/> Property
+                Most Suitable <br/> Positions
             </h1>
         </div>
         <div className="flexColStart hero-desc">
